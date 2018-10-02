@@ -9,7 +9,7 @@ Linki do moich wykonanych stron
 <li>http://horyzont.gorlice.pl</li>
 <li>http://rbus.com.pl/</li>
 <li>http://jamamichalika.pl/</li>
-<li>www.60minutdosmierci.pl</li>
+<li>http://60minutdosmierci.pl/</li>
 <li>http://soryt.com</li>
 <li>http://fasttrade.com.pl/</li>
 <li>http://skuptelefonow-warszawa.pl</li>
